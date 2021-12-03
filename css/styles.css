@@ -1,0 +1,17 @@
+body {
+  font-family: 'Roboto', Raleway, sans-serif;
+  color: #212121;
+}
+
+.web-studio-link {
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 0.03em;
+}
+.web-studio-link-color-web {
+  color: #2196f3;
+}
+
+.web-studio-link-color-studio {
+  color: #000;
+}
