@@ -7,6 +7,8 @@ body {
   font-weight: bold;
   font-size: 26px;
   line-height: 1.2;
+  text-decoration: none;
+  font-family: Raleway;
 }
 .web-studio-link-color-web {
   color: #2196f3;
@@ -20,20 +22,31 @@ body {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
+  list-style: none;
+  text-decoration: none;
 }
 
 .contacts {
+  font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   color: #757575;
+  list-style: none;
+  text-decoration: none;
 }
-
+.footer-address {
+  font-style: normal;
+  font-size: 14px;
+  line-height: 1.14;
+  /*color: #fff;*/
+}
 /*STUDIO MAIN*/
 .order-title {
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
+  text-transform: uppercase;
   /*text-align: center;*/
   /*color: #fff;*/
 }
@@ -49,10 +62,15 @@ body {
 }
 
 .order-btn-title {
-  font-weight: bold;
+  font-family: Roboto;
+  font-weight: 700;
   font-size: 16px;
   line-height: 1.9;
   color: #fff;
+}
+
+.peculiarities-list {
+  list-style: none;
 }
 
 .peculiarities-title {
@@ -60,6 +78,7 @@ body {
   font-size: 14px;
   line-height: 1.14;
   color: #212121;
+  text-transform: uppercase;
 }
 
 .peculiarities-text {
@@ -73,6 +92,10 @@ body {
   font-size: 36px;
   line-height: 1.17;
   color: #212121;
+}
+.kind-work-img,
+.team-img {
+  list-style: none;
 }
 .team-names {
   font-weight: 500;
